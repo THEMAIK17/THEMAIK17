@@ -75,6 +75,9 @@ const themaik17 = {
 
 ## 🎓 Formación Académica  
 
+💻 *Desarrollo de Software – RIWI* (2025)  
+> Full Stack con JavaScript, Node.js, Express, MySQL, etc.
+
 🎓 *Ingeniero Mecatrónico* (2025)  
 > Automatización, robótica y control de sistemas.  
 
@@ -84,8 +87,6 @@ const themaik17 = {
 🔧 *Técnico Profesional en Mantenimiento Electromecánico* (2021)  
 > Mantenimiento preventivo y correctivo en sistemas electromecánicos.  
 
-💻 *Desarrollo de Software – RIWI* (2025)  
-> Full Stack con JavaScript, Node.js, Express, MySQL, etc.
 
 ---
 
