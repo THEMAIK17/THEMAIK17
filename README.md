@@ -65,14 +65,13 @@ const maikolExperience = {
   experiencia: "3 años en el área de ingeniería y desarrollo",
   enfoque: "Convertirme en desarrollador Full Stack"
 };
+
 ---
 
 
 ## 🧰 Tecnologías y Herramientas
 
-
 <div align="center">
-
 <img src="https://img.shields.io/badge/-JavaScript-FFD700?style=flat&logo=javascript&logoColor=000" />
 <img src="https://img.shields.io/badge/-Node.js-3C873A?style=flat&logo=node.js&logoColor=fff" />
 <img src="https://img.shields.io/badge/-Express-000000?style=flat&logo=express" />
@@ -84,7 +83,7 @@ const maikolExperience = {
 
 </div>
 
-
+---
 
 ## 📈 Estadísticas de GitHub  
 ![Stats](https://github-readme-stats.vercel.app/api?username=THEMAIK17&show_icons=true&theme=radical)  
