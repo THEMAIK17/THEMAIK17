@@ -57,14 +57,14 @@
 
 ---
 
-## 💼 Experiencia Profesional  
+## 💼 Experiencia Profesional
 
-const themaik17 = {
-    proyectos: ["Aplicaciones web", "Gestión de bases de datos", "APIs con Express.js"],
-    habilidades: ["Aprendizaje rápido", "Trabajo en equipo", "Resolución de problemas"],
-    objetivo: "Convertirme en desarrollador Full Stack"
-}
-
+const maikolExperience = {
+  proyectos: "Aplicaciones web, Gestión de bases de datos, APIs con Express.js",
+  habilidades: "Aprendizaje rápido, Trabajo en equipo, Resolución de problemas",
+  experiencia: "3 años en el área de ingeniería y desarrollo",
+  enfoque: "Convertirme en desarrollador Full Stack"
+};
 ---
 
 
