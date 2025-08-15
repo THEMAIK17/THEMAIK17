@@ -3,25 +3,38 @@
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00F700&center=true&vCenter=true&width=500&lines=Bienvenido+a+mi+perfil+GitHub!;Ingeniero+Mecatr%C3%B3nico;Desarrollador+de+Software;Apasionado+por+la+tecnolog%C3%ADa">
 </p>
 ---
-<h1>¡Hola! Soy Maikol Duran 👋</h1>
+<h1>¡Hola! Soy Maikol Duran <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="70"></h1>
 <h3>  conocido como <strong>THEMAIK17</strong> - Desarrollador Web & Apasionado por la Tecnología 🚀</h3>
 
 ---
 
 ## 📌 Sobre Mí  
 
+💻 *Ingeniero Mecatrónico* con *3 años de experiencia* en sistemas electromecánicos y en constante formación como *Desarrollador de Software*.  
+
+🚀 Apasionado por la tecnología, la innovación y la creación de soluciones que impacten positivamente en las personas. 
+
 💡 "Me motiva aprender cada día algo nuevo y crear soluciones que faciliten la vida a las personas"  
+
 🌎 Desde *Colombia* | 💻 En formación como *Desarrollador Full Stack*  
+
 📚 Apasionado por aprender, resolver problemas y trabajar en equipo.  
 
 ---
 
 ## 🎓 Formación Académica  
 
-- 📌 Actualmente estudiando *Desarrollo de Software* en RIWI  
-- 🎓 Técnico en *Desarrollo de Software*  
-- 📖 Experiencia en *Bases de Datos MySQL* y *JavaScript*  
+💻 *Desarrollo de Software – RIWI* (2025)  
+> Full Stack con JavaScript, Node.js, Express, MySQL, etc.
 
+🎓 *Ingeniero Mecatrónico* (2025)  
+> Automatización, robótica y control de sistemas.  
+
+🛠 *Tecnólogo en Gestión de Sistemas Electromecánicos* (2023)  
+> Integración de sistemas eléctricos y mecánicos para entornos industriales.  
+
+🔧 *Técnico Profesional en Mantenimiento Electromecánico* (2021)  
+> Mantenimiento preventivo y correctivo en sistemas electromecánicos.  
 ---
 
 ## 🛠 Stack Tecnológico  
@@ -54,12 +67,6 @@ const themaik17 = {
 
 ---
 
-# <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="70"> Hola, soy Maikol Duran  
-
-💻 *Ingeniero Mecatrónico* con *3 años de experiencia* en sistemas electromecánicos y en constante formación como *Desarrollador de Software*.  
-🚀 Apasionado por la tecnología, la innovación y la creación de soluciones que impacten positivamente en las personas.  
-
----
 
 ## 🧰 Tecnologías y Herramientas
 ![JavaScript](https://img.shields.io/badge/-JavaScript-FFD700?style=flat&logo=javascript&logoColor=000)
@@ -73,22 +80,7 @@ const themaik17 = {
 
 ---
 
-## 🎓 Formación Académica  
 
-💻 *Desarrollo de Software – RIWI* (2025)  
-> Full Stack con JavaScript, Node.js, Express, MySQL, etc.
-
-🎓 *Ingeniero Mecatrónico* (2025)  
-> Automatización, robótica y control de sistemas.  
-
-🛠 *Tecnólogo en Gestión de Sistemas Electromecánicos* (2023)  
-> Integración de sistemas eléctricos y mecánicos para entornos industriales.  
-
-🔧 *Técnico Profesional en Mantenimiento Electromecánico* (2021)  
-> Mantenimiento preventivo y correctivo en sistemas electromecánicos.  
-
-
----
 
 ## 📈 Estadísticas de GitHub  
 ![Stats](https://github-readme-stats.vercel.app/api?username=THEMAIK17&show_icons=true&theme=radical)  
