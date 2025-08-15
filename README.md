@@ -9,15 +9,21 @@
 ---
 
 ## 📌 Sobre Mí  
+
 💡 "Me motiva aprender cada día algo nuevo y crear soluciones que faciliten la vida a las personas"  
+
 🌎 Desde *Colombia* | 💻 En formación como *Desarrollador Full Stack*  
+
 📚 Apasionado por aprender, resolver problemas y trabajar en equipo.  
 
 ---
 
 ## 🎓 Formación Académica  
+
 - 📌 Actualmente estudiando *Desarrollo de Software* en RIWI  
+
 - 🎓 Técnico en *Desarrollo de Software*  
+
 - 📖 Experiencia en *Bases de Datos MySQL* y *JavaScript*  
 
 ---
@@ -39,6 +45,7 @@
   <img src="https://img.shields.io/badge/-Express-000000?style=flat&logo=express&logoColor=fff" />
   <img src="https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=fff" />
 </p>
+
 ---
 
 ## 💼 Experiencia Profesional  
@@ -48,9 +55,10 @@ const themaik17 = {
     habilidades: ["Aprendizaje rápido", "Trabajo en equipo", "Resolución de problemas"],
     objetivo: "Convertirme en desarrollador Full Stack"
 }
- 
 
-# <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="70">   Hola, soy Maikol Duran  
+---
+
+# <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="70"> Hola, soy Maikol Duran  
 
 💻 *Ingeniero Mecatrónico* con *3 años de experiencia* en sistemas electromecánicos y en constante formación como *Desarrollador de Software*.  
 🚀 Apasionado por la tecnología, la innovación y la creación de soluciones que impacten positivamente en las personas.  
@@ -97,13 +105,17 @@ const themaik17 = {
 ---
 
 ## 📌 Proyectos Destacados  
+
 🚖 *Sistema de Transporte Escolar* – Aplicación para optimizar rutas y seguridad en transporte escolar.  
+
 ⚙️ *Automatización Industrial* – Integración de sistemas electromecánicos con controladores PLC.  
 
 ---
 
 ## 📫 Conéctate conmigo  
+
 ✉️ *Email:* maikold774@gmail.com
+
 💼 *LinkedIn:* [https://www.linkedin.com/in/TUUSUARIO](https://www.linkedin.com/)  
 
 
