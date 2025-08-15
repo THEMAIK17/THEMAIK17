@@ -1,8 +1,8 @@
 
 <img src="https://i.ibb.co/2nJq7xL/banner-github.png" width="100%" alt="Banner THEMAIK17">
 
-<h1 ¡Hola! Soy Maikol Duran 👋</h1>
-<h3 conocido como <strong>THEMAIK17</strong> - Desarrollador Web & Apasionado por la Tecnología 🚀</h3>
+<h1>¡Hola! Soy Maikol Duran 👋</h1>
+<h3>  conocido como <strong>THEMAIK17</strong> - Desarrollador Web & Apasionado por la Tecnología 🚀</h3>
 
 ---
 
