@@ -48,10 +48,9 @@ const themaik17 = {
     habilidades: ["Aprendizaje rápido", "Trabajo en equipo", "Resolución de problemas"],
     objetivo: "Convertirme en desarrollador Full Stack"
 }
- <!-- Encabezado con GIF -->
-<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="70">  
+ 
 
-# 👋 Hola, soy Maikol Duran  
+# <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="70">   Hola, soy Maikol Duran  
 
 💻 *Ingeniero Mecatrónico* con *3 años de experiencia* en sistemas electromecánicos y en constante formación como *Desarrollador de Software*.  
 🚀 Apasionado por la tecnología, la innovación y la creación de soluciones que impacten positivamente en las personas.  
