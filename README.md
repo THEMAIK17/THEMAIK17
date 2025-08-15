@@ -22,7 +22,7 @@
 
 ## 🛠 Stack Tecnológico  
 
-*🎨 Frontend*  
+* <h3 align="center"> 🎨 Frontend </h3> *
 <p align="center">
   <img src="https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=fff" />
   <img src="https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=fff" />
@@ -31,7 +31,7 @@
 </p>
 
 
-*⚙️ Backend & Database*      
+* <h3 align="center"> ⚙️ Backend & Database </h3>*
 <p align="center">
   <img src="https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=fff" />
   <img src="https://img.shields.io/badge/-Express-000000?style=flat&logo=express&logoColor=fff" />
