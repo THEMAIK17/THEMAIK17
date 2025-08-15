@@ -40,13 +40,13 @@
 ---
 
 ## 💼 Experiencia Profesional  
-```js
+
 const themaik17 = {
     proyectos: ["Aplicaciones web", "Gestión de bases de datos", "APIs con Express.js"],
     habilidades: ["Aprendizaje rápido", "Trabajo en equipo", "Resolución de problemas"],
     objetivo: "Convertirme en desarrollador Full Stack"
 }
-[4:51 p. m., 15/8/2025] Maikol: <!-- Encabezado con GIF -->
+ <!-- Encabezado con GIF -->
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="70">  
 
 # 👋 Hola, soy Maikol Duran  
