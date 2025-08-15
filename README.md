@@ -11,9 +11,7 @@
 ## 📌 Sobre Mí  
 
 💡 "Me motiva aprender cada día algo nuevo y crear soluciones que faciliten la vida a las personas"  
-
 🌎 Desde *Colombia* | 💻 En formación como *Desarrollador Full Stack*  
-
 📚 Apasionado por aprender, resolver problemas y trabajar en equipo.  
 
 ---
@@ -21,9 +19,7 @@
 ## 🎓 Formación Académica  
 
 - 📌 Actualmente estudiando *Desarrollo de Software* en RIWI  
-
 - 🎓 Técnico en *Desarrollo de Software*  
-
 - 📖 Experiencia en *Bases de Datos MySQL* y *JavaScript*  
 
 ---
@@ -107,7 +103,6 @@ const themaik17 = {
 ## 📌 Proyectos Destacados  
 
 🚖 *Sistema de Transporte Escolar* – Aplicación para optimizar rutas y seguridad en transporte escolar.  
-
 ⚙️ *Automatización Industrial* – Integración de sistemas electromecánicos con controladores PLC.  
 
 ---
@@ -115,7 +110,6 @@ const themaik17 = {
 ## 📫 Conéctate conmigo  
 
 ✉️ *Email:* maikold774@gmail.com
-
 💼 *LinkedIn:* [https://www.linkedin.com/in/TUUSUARIO](https://www.linkedin.com/)  
 
 
