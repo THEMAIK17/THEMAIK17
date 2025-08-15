@@ -110,7 +110,7 @@ const themaik17 = {
 
 ## 📫 Conéctate conmigo  
 
-✉️ *Email:* maikold774@gmail.com
+✉️ *Email:* maikold774@gmail.com .
 💼 *LinkedIn:* [https://www.linkedin.com/in/TUUSUARIO](https://www.linkedin.com/)  
 
 
