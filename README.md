@@ -69,6 +69,8 @@ const maikolExperience = {
 
 
 ## 🧰 Tecnologías y Herramientas
+
+
 <div align="center">
 
 <img src="https://img.shields.io/badge/-JavaScript-FFD700?style=flat&logo=javascript&logoColor=000" />
@@ -81,7 +83,6 @@ const maikolExperience = {
 <img src="https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=fff" />
 
 </div>
----
 
 
 
