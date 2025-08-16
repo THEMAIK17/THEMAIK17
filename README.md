@@ -1,6 +1,5 @@
-
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00F700&center=true&vCenter=true&width=500&lines=Bienvenido+a+mi+perfil+GitHub!;Ingeniero+Mecatr%C3%B3nico;Desarrollador+de+Software;Apasionado+por+la+tecnolog%C3%ADa">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=500&lines=Bienvenido+a+mi+perfil+GitHub!;Ingeniero+Mecatr%C3%B3nico;Desarrollador+de+Software;Apasionado+por+la+tecnolog%C3%ADa&color=FF0000,00F700,007BFF">
 </p>
 
 <h1>¡Hola! Soy Maikol Duran <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="70"></h1>
