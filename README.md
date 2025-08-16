@@ -60,13 +60,14 @@
 
 ## 💼 Experiencia Profesional
 
+```javascript
 const maikolExperience = {
   proyectos: "Aplicaciones web, Gestión de bases de datos, APIs con Express.js",
   habilidades: "Aprendizaje rápido, Trabajo en equipo, Resolución de problemas",
   experiencia: "3 años en el área de ingeniería y desarrollo",
   enfoque: "Convertirme en desarrollador Full Stack"
 };
-
+```
 ---
 
 
