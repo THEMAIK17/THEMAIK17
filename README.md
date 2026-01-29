@@ -108,7 +108,7 @@ const maikolExperience = {
 ## 📫 Conéctate conmigo  
 
 ✉️ *Email:* maikold774@gmail.com .
-💼 *LinkedIn:* [[https://www.linkedin.com/in/TUUSUARIO](https://www.linkedin.com/in/maikol-duran/)](https://www.linkedin.com/)  
+💼 *LinkedIn:* [(https://www.linkedin.com/in/maikol-duran/)]
 
 
 ---
